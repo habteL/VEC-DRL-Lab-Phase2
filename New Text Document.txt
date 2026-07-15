@@ -1,0 +1,652 @@
+C:\Users\lejeb\Documents\VEC-DRL-Lab>dir/s
+ Volume in drive C has no label.
+ Volume Serial Number is 4EAE-6ABD
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab
+
+07/07/2026  04:07 PM    <DIR>          .
+07/07/2026  04:07 PM    <DIR>          ..
+07/07/2026  03:15 PM                52 .gitignore
+07/07/2026  02:45 PM    <DIR>          .vscode
+07/07/2026  03:28 PM             1,905 CITATION.md
+07/07/2026  03:16 PM    <DIR>          docs
+07/07/2026  02:44 PM    <DIR>          experiments
+07/07/2026  03:28 PM             1,527 LICENSE
+07/07/2026  04:07 PM                98 quantum.text
+07/07/2026  03:48 PM             5,863 README.md
+07/07/2026  02:44 PM    <DIR>          results
+07/07/2026  02:38 PM               431 setup.py
+07/07/2026  02:44 PM    <DIR>          src
+07/07/2026  02:52 PM             1,691 trained_agent.npy
+               7 File(s)         11,567 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git
+
+07/07/2026  03:49 PM                21 COMMIT_EDITMSG
+07/07/2026  03:14 PM               300 config
+07/07/2026  03:11 PM                73 description
+07/07/2026  03:11 PM                21 HEAD
+07/07/2026  03:11 PM    <DIR>          hooks
+07/07/2026  03:49 PM             2,230 index
+07/07/2026  03:11 PM    <DIR>          info
+07/07/2026  03:13 PM    <DIR>          logs
+07/07/2026  03:49 PM    <DIR>          objects
+07/07/2026  03:14 PM    <DIR>          refs
+               5 File(s)          2,645 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\hooks
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               478 applypatch-msg.sample
+07/07/2026  03:11 PM             1,972 commit-msg.sample
+07/07/2026  03:11 PM             4,611 fsmonitor-watchman.sample
+07/07/2026  03:11 PM               189 post-update.sample
+07/07/2026  03:11 PM               424 pre-applypatch.sample
+07/07/2026  03:11 PM             1,649 pre-commit.sample
+07/07/2026  03:11 PM               416 pre-merge-commit.sample
+07/07/2026  03:11 PM             1,374 pre-push.sample
+07/07/2026  03:11 PM             4,898 pre-rebase.sample
+07/07/2026  03:11 PM               544 pre-receive.sample
+07/07/2026  03:11 PM             1,492 prepare-commit-msg.sample
+07/07/2026  03:11 PM             2,783 push-to-checkout.sample
+07/07/2026  03:11 PM             2,308 sendemail-validate.sample
+07/07/2026  03:11 PM             3,650 update.sample
+              14 File(s)         26,788 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\info
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\logs
+
+07/07/2026  03:13 PM    <DIR>          .
+07/07/2026  03:13 PM    <DIR>          ..
+07/07/2026  03:49 PM               919 HEAD
+07/07/2026  03:14 PM    <DIR>          refs
+               1 File(s)            919 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\logs\refs
+
+07/07/2026  03:14 PM    <DIR>          .
+07/07/2026  03:14 PM    <DIR>          ..
+07/07/2026  03:13 PM    <DIR>          heads
+07/07/2026  03:14 PM    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\logs\refs\heads
+
+07/07/2026  03:13 PM    <DIR>          .
+07/07/2026  03:13 PM    <DIR>          ..
+07/07/2026  03:49 PM               919 main
+               1 File(s)            919 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\logs\refs\remotes
+
+07/07/2026  03:14 PM    <DIR>          .
+07/07/2026  03:14 PM    <DIR>          ..
+07/07/2026  03:14 PM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\logs\refs\remotes\origin
+
+07/07/2026  03:14 PM    <DIR>          .
+07/07/2026  03:14 PM    <DIR>          ..
+07/07/2026  03:50 PM               755 main
+               1 File(s)            755 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects
+
+07/07/2026  03:49 PM    <DIR>          .
+07/07/2026  03:49 PM    <DIR>          ..
+07/07/2026  03:11 PM    <DIR>          01
+07/07/2026  03:11 PM    <DIR>          0b
+07/07/2026  03:15 PM    <DIR>          0c
+07/07/2026  03:11 PM    <DIR>          14
+07/07/2026  03:15 PM    <DIR>          17
+07/07/2026  03:11 PM    <DIR>          1d
+07/07/2026  03:11 PM    <DIR>          21
+07/07/2026  03:33 PM    <DIR>          29
+07/07/2026  03:16 PM    <DIR>          2d
+07/07/2026  03:11 PM    <DIR>          3c
+07/07/2026  03:11 PM    <DIR>          47
+07/07/2026  03:11 PM    <DIR>          49
+07/07/2026  03:11 PM    <DIR>          4a
+07/07/2026  03:11 PM    <DIR>          4b
+07/07/2026  03:11 PM    <DIR>          4d
+07/07/2026  03:13 PM    <DIR>          4f
+07/07/2026  03:49 PM    <DIR>          50
+07/07/2026  03:11 PM    <DIR>          53
+07/07/2026  03:11 PM    <DIR>          55
+07/07/2026  03:11 PM    <DIR>          62
+07/07/2026  03:11 PM    <DIR>          67
+07/07/2026  03:11 PM    <DIR>          74
+07/07/2026  03:16 PM    <DIR>          7d
+07/07/2026  03:11 PM    <DIR>          8b
+07/07/2026  03:11 PM    <DIR>          8f
+07/07/2026  03:49 PM    <DIR>          90
+07/07/2026  03:11 PM    <DIR>          94
+07/07/2026  03:11 PM    <DIR>          95
+07/07/2026  03:11 PM    <DIR>          98
+07/07/2026  03:33 PM    <DIR>          9b
+07/07/2026  03:11 PM    <DIR>          a1
+07/07/2026  03:11 PM    <DIR>          a3
+07/07/2026  03:16 PM    <DIR>          a4
+07/07/2026  03:13 PM    <DIR>          aa
+07/07/2026  03:11 PM    <DIR>          b1
+07/07/2026  03:11 PM    <DIR>          b9
+07/07/2026  03:13 PM    <DIR>          be
+07/07/2026  03:33 PM    <DIR>          c2
+07/07/2026  03:49 PM    <DIR>          cb
+07/07/2026  03:11 PM    <DIR>          d0
+07/07/2026  03:15 PM    <DIR>          d1
+07/07/2026  03:15 PM    <DIR>          d6
+07/07/2026  03:33 PM    <DIR>          d7
+07/07/2026  03:11 PM    <DIR>          e5
+07/07/2026  03:11 PM    <DIR>          e6
+07/07/2026  03:11 PM    <DIR>          e9
+07/07/2026  03:33 PM    <DIR>          ea
+07/07/2026  03:11 PM    <DIR>          f3
+07/07/2026  03:11 PM    <DIR>          f5
+07/07/2026  03:15 PM    <DIR>          f6
+07/07/2026  03:11 PM    <DIR>          ff
+07/07/2026  03:11 PM    <DIR>          info
+07/07/2026  03:11 PM    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\01
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM             2,758 c4465b4e17e81216c724e24f253fbd859d266b
+               1 File(s)          2,758 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\0b
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM            14,210 e49c7f6ead3f1568c17729c198d48038c84efa
+               1 File(s)         14,210 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\0c
+
+07/07/2026  03:15 PM    <DIR>          .
+07/07/2026  03:15 PM    <DIR>          ..
+07/07/2026  03:11 PM               252 05b3132d8a4b685260292e584f54d5486b5dcd
+07/07/2026  03:15 PM               195 4c4edf36c9167804f5567a9c83f9750ce5128b
+               2 File(s)            447 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\14
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM             1,232 59514a94e586eda37476d69fc0a3b2d3fd964a
+               1 File(s)          1,232 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\17
+
+07/07/2026  03:15 PM    <DIR>          .
+07/07/2026  03:15 PM    <DIR>          ..
+07/07/2026  03:15 PM               329 87aeaf055ad52b0b856a83ee63a4a2654a7857
+               1 File(s)            329 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\1d
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               759 d0b3907b5a37e4fc95a693b55ce08813375066
+               1 File(s)            759 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\21
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               271 95284fd15c3c8436d3dd58ccb964908cab66b9
+               1 File(s)            271 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\29
+
+07/07/2026  03:33 PM    <DIR>          .
+07/07/2026  03:33 PM    <DIR>          ..
+07/07/2026  03:33 PM               839 881603fd2d7737ceb5568d210bbc4b8c55bf86
+               1 File(s)            839 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\2d
+
+07/07/2026  03:16 PM    <DIR>          .
+07/07/2026  03:16 PM    <DIR>          ..
+07/07/2026  03:16 PM                63 1f844d4c96f943dc41a11c17320d0d7e7b0842
+               1 File(s)             63 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\3c
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               227 42683b8c1236ee1c0b94aae2894a54520a68dc
+               1 File(s)            227 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\47
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               503 c81c04fa12f992cfc68cea09304e4e14afd330
+               1 File(s)            503 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\49
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM                22 03d602027094214676dd06f6b902ac0c7714ab
+               1 File(s)             22 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\4a
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM                44 85f1435cfc129cbbb594a39f7050048a602dc0
+               1 File(s)             44 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\4b
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM                83 5a2944248f6b2d0d08c761afbd1453488f64a8
+               1 File(s)             83 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\4d
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM             1,094 97410cdd3d628291cd56179223b0de16d956dc
+               1 File(s)          1,094 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\4f
+
+07/07/2026  03:13 PM    <DIR>          .
+07/07/2026  03:13 PM    <DIR>          ..
+07/07/2026  03:13 PM                33 0f82508905f1a523db8e7d1d002d0b33dc9ad5
+               1 File(s)             33 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\50
+
+07/07/2026  03:49 PM    <DIR>          .
+07/07/2026  03:49 PM    <DIR>          ..
+07/07/2026  03:49 PM               172 129584bd582fee414abdc9f181cc9fc089b028
+               1 File(s)            172 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\53
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               295 a8abf758d8a0c72fb0db7586c57070ab631fa5
+               1 File(s)            295 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\55
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM            55,338 fb0e090317dfdb5c49704ad3e93636535adb7f
+               1 File(s)         55,338 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\62
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM                57 1da02a655dc570104a6b75bf15af9e9ebb2d15
+07/07/2026  03:11 PM               952 6cb92f2ab38b821921a551a939890133d4d2c2
+               2 File(s)          1,009 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\67
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               322 5bc4f22f5523b5e65610fc1395ee99966069c7
+               1 File(s)            322 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\74
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               163 cfaacdc2850c52db05725532f2e8756e694638
+               1 File(s)            163 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\7d
+
+07/07/2026  03:16 PM    <DIR>          .
+07/07/2026  03:16 PM    <DIR>          ..
+07/07/2026  03:16 PM               314 81403d7c115faceef1b38db844f1c11ef1ada4
+               1 File(s)            314 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\8b
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM                16 137891791fe96927ad78e64b0aad7bded08bdc
+               1 File(s)             16 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\8f
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               531 7ed0d4705f56068e9085dcc61d5b11ef3ae39b
+               1 File(s)            531 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\90
+
+07/07/2026  03:49 PM    <DIR>          .
+07/07/2026  03:49 PM    <DIR>          ..
+07/07/2026  03:49 PM             2,732 b88fde6b985b34dcddda8fa9923dd9ffb35531
+               1 File(s)          2,732 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\94
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM             1,035 34d9ffcc47248d6378660326278b3b7f15a9f2
+07/07/2026  03:11 PM           525,617 9e22ab2929f6ab036d26562d3b9bbc4aa09409
+07/07/2026  03:11 PM             2,468 d577973c848f7fc25d8e73cafa694f65e72df1
+07/07/2026  03:11 PM             3,498 f4247f06176cbd930c8b5dcbdd5ab89c8c9173
+               4 File(s)        532,618 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\95
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               130 a6bb4d47a3ffc0180afc7cc883157de96eb21d
+               1 File(s)            130 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\98
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM             2,241 c011392ba3e2308b94c9765416367528084193
+               1 File(s)          2,241 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\9b
+
+07/07/2026  03:33 PM    <DIR>          .
+07/07/2026  03:33 PM    <DIR>          ..
+07/07/2026  03:33 PM               188 271789d0515b527010a5af433c51a79727f477
+               1 File(s)            188 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\a1
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM           211,454 d4ed1b21f2b2ad8971e66bce6f02fb66a3e482
+               1 File(s)        211,454 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\a3
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               196 167aded64d9f902ed779fa11029d4d5b81ae50
+               1 File(s)            196 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\a4
+
+07/07/2026  03:16 PM    <DIR>          .
+07/07/2026  03:16 PM    <DIR>          ..
+07/07/2026  03:16 PM               174 d32d800bb7c62523215d12c01c1a5c4a7217ee
+               1 File(s)            174 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\aa
+
+07/07/2026  03:13 PM    <DIR>          .
+07/07/2026  03:13 PM    <DIR>          ..
+07/07/2026  03:13 PM               329 8a694e132770454b73c6f0f1a85b7c0735b160
+               1 File(s)            329 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\b1
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:15 PM             1,549 10b5b9b213e38bb778ed52a8baecb83d6b633b
+07/07/2026  03:11 PM               122 d59f4b2a7220e28b0596d3bdf7195c87a1d490
+               2 File(s)          1,671 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\b9
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               212 5859122a32327a8b3c9de3c77ae18c3a9c0148
+               1 File(s)            212 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\be
+
+07/07/2026  03:13 PM    <DIR>          .
+07/07/2026  03:13 PM    <DIR>          ..
+07/07/2026  03:13 PM               158 2d07d9eefff7baaea1cc3d55bfb0f7293b4a41
+               1 File(s)            158 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\c2
+
+07/07/2026  03:33 PM    <DIR>          .
+07/07/2026  03:33 PM    <DIR>          ..
+07/07/2026  03:33 PM             2,647 f57ccfa1624920616662acbde405f2b38c84fc
+               1 File(s)          2,647 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\cb
+
+07/07/2026  03:49 PM    <DIR>          .
+07/07/2026  03:49 PM    <DIR>          ..
+07/07/2026  03:49 PM               378 34e94b66c1453651429924f7e41f523fcee7e4
+               1 File(s)            378 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\d0
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM             2,748 e8e781732d43b696dd3106305619032de4d84b
+               1 File(s)          2,748 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\d1
+
+07/07/2026  03:15 PM    <DIR>          .
+07/07/2026  03:15 PM    <DIR>          ..
+07/07/2026  03:15 PM                59 c8141f44041a6bef4a3324f8259808b52c4d36
+               1 File(s)             59 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\d6
+
+07/07/2026  03:15 PM    <DIR>          .
+07/07/2026  03:15 PM    <DIR>          ..
+07/07/2026  03:15 PM                89 4a47625977ab418fee34ad988df87d3afb6557
+               1 File(s)             89 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\d7
+
+07/07/2026  03:33 PM    <DIR>          .
+07/07/2026  03:33 PM    <DIR>          ..
+07/07/2026  03:33 PM               378 70caa60284539fbe3f63415fac9ec6eb056781
+               1 File(s)            378 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\e5
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               154 82138868d048a6ba7a75dd432cd4ec4c4bebc9
+               1 File(s)            154 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\e6
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM                15 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+               1 File(s)             15 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\e9
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               530 f621c329b00228f6c0f3ab773b7eec20460d09
+               1 File(s)            530 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\ea
+
+07/07/2026  03:33 PM    <DIR>          .
+07/07/2026  03:33 PM    <DIR>          ..
+07/07/2026  03:33 PM               890 7e8646706bfad289fd416539a1553990025fe4
+               1 File(s)            890 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\f3
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM             1,328 8654456102635d3c0c1f20037a1d2a12ee7a21
+               1 File(s)          1,328 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\f5
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               389 b17ef143c252a519ebac4f4dbcf0f1350b13e4
+               1 File(s)            389 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\f6
+
+07/07/2026  03:15 PM    <DIR>          .
+07/07/2026  03:15 PM    <DIR>          ..
+07/07/2026  03:15 PM               216 7ec237ab9af761556920e3b4aeac9fa53bcd61
+               1 File(s)            216 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\ff
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+07/07/2026  03:11 PM               154 346392b41532b1fb8c8758b17cf3d3db1485b3
+               1 File(s)            154 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\info
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\objects\pack
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\refs
+
+07/07/2026  03:14 PM    <DIR>          .
+07/07/2026  03:14 PM    <DIR>          ..
+07/07/2026  03:49 PM    <DIR>          heads
+07/07/2026  03:14 PM    <DIR>          remotes
+07/07/2026  03:11 PM    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\refs\heads
+
+07/07/2026  03:49 PM    <DIR>          .
+07/07/2026  03:49 PM    <DIR>          ..
+07/07/2026  03:49 PM                41 main
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\refs\remotes
+
+07/07/2026  03:14 PM    <DIR>          .
+07/07/2026  03:14 PM    <DIR>          ..
+07/07/2026  03:50 PM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\refs\remotes\origin
+
+07/07/2026  03:50 PM    <DIR>          .
+07/07/2026  03:50 PM    <DIR>          ..
+07/07/2026  03:50 PM                41 main
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.git\refs\tags
+
+07/07/2026  03:11 PM    <DIR>          .
+07/07/2026  03:11 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\.vscode
+
+07/07/2026  02:45 PM    <DIR>          .
+07/07/2026  02:45 PM    <DIR>          ..
+07/07/2026  02:45 PM               135 settings.json
+               1 File(s)            135 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\docs
+
+07/07/2026  03:16 PM    <DIR>          .
+07/07/2026  03:16 PM    <DIR>          ..
+07/07/2026  02:50 PM           542,340 VEC_Lab_Manual.pdf
+               1 File(s)        542,340 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\experiments
+
+07/07/2026  02:44 PM    <DIR>          .
+07/07/2026  02:44 PM    <DIR>          ..
+07/07/2026  02:35 PM             8,004 baseline_comparison.py
+07/07/2026  02:36 PM               988 plot.py
+07/07/2026  03:00 PM            15,560 simulation.py
+               3 File(s)         24,552 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\results
+
+07/07/2026  02:44 PM    <DIR>          .
+07/07/2026  02:44 PM    <DIR>          ..
+07/07/2026  12:14 PM            76,582 comparison.png
+07/07/2026  03:01 PM            62,440 episode_metrics.csv
+07/07/2026  12:14 PM           238,093 learning_curve.png
+07/07/2026  03:01 PM               813 step_metrics.csv
+07/07/2026  03:01 PM             1,691 trained_agent.npy
+               5 File(s)        379,619 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\src
+
+07/07/2026  02:44 PM    <DIR>          .
+07/07/2026  02:44 PM    <DIR>          ..
+07/07/2026  02:52 PM    <DIR>          vecsim
+07/07/2026  02:51 PM    <DIR>          vecsim.egg-info
+07/07/2026  01:10 PM                 0 __init__.py
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\src\vecsim
+
+07/07/2026  02:52 PM    <DIR>          .
+07/07/2026  02:52 PM    <DIR>          ..
+07/04/2026  09:52 AM             3,110 agent.py
+07/04/2026  03:08 PM             1,297 channel.py
+07/05/2026  05:09 AM             4,434 edge_server.py
+07/05/2026  04:01 AM             1,306 task.py
+07/07/2026  02:23 PM             3,015 vehicle.py
+07/07/2026  02:22 PM               266 __init__.py
+07/07/2026  02:52 PM    <DIR>          __pycache__
+               6 File(s)         13,428 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\src\vecsim\__pycache__
+
+07/07/2026  02:52 PM    <DIR>          .
+07/07/2026  02:52 PM    <DIR>          ..
+07/07/2026  02:52 PM             5,504 agent.cpython-311.pyc
+07/07/2026  02:52 PM             2,183 channel.cpython-311.pyc
+07/07/2026  02:52 PM             5,973 edge_server.cpython-311.pyc
+07/07/2026  02:52 PM             1,876 task.cpython-311.pyc
+07/07/2026  02:52 PM             4,806 vehicle.cpython-311.pyc
+07/07/2026  02:52 PM               550 __init__.cpython-311.pyc
+               6 File(s)         20,892 bytes
+
+ Directory of C:\Users\lejeb\Documents\VEC-DRL-Lab\src\vecsim.egg-info
+
+07/07/2026  02:51 PM    <DIR>          .
+07/07/2026  02:51 PM    <DIR>          ..
+07/07/2026  02:51 PM                 1 dependency_links.txt
+07/07/2026  02:51 PM               168 PKG-INFO
+07/07/2026  02:51 PM                28 requires.txt
+07/07/2026  02:51 PM               309 SOURCES.txt
+07/07/2026  02:51 PM                 7 top_level.txt
+               5 File(s)            513 bytes
+
+     Total Files Listed:
+             117 File(s)      1,868,546 bytes
+             224 Dir(s)  165,783,896,064 bytes free

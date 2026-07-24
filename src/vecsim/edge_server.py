@@ -13,6 +13,7 @@ class EdgeServer:
         self.coverage_radius = coverage_radius  # Server's coverage radius
         # self.completed_tasks = []  # stores finished tasks for metrics
         self.transmission_queue = []  # tasks currently being transmitted
+        self.completed_tasks = []   # per-step completion buffer
         self.backhaul_bandwidth = backhaul_bandwidth
         self.backhaul_queue = []  # tasks currently being transmitted over backhaul
     def reset(self):
@@ -22,6 +23,7 @@ class EdgeServer:
         self.completed_tasks = []
         self.transmission_queue = []
         self.backhaul_queue = []
+        self.completed_tasks = []
     def accept_task(self, task):
         if self.current_task is None:
             self.current_task = task
@@ -50,6 +52,7 @@ class EdgeServer:
                                         - self.current_task.created_at)
             self.tasks_processed += 1
             self.completed_tasks.append(self.current_task)
+            
             self.current_task = None
 
             if self.task_queue:

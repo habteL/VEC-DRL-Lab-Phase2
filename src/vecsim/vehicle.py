@@ -18,6 +18,7 @@ class Vehicle:
         self.local_queue = []
         self.local_completed = []
         self.local_tasks_processed = 0
+        self.current_server_id = None  # tracks handover state
     def reset(self, x, y):
         self.x = x
         self.y = y
@@ -26,6 +27,7 @@ class Vehicle:
         self.local_queue = []
         self.local_completed = []
         self.local_tasks_processed = 0
+        self.current_server_id = None
     def move(self):
         self.x += self.speed * math.cos(math.radians(self.direction))
         self.y += self.speed * math.sin(math.radians(self.direction))

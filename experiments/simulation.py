@@ -530,20 +530,25 @@ for episode in range(NUM_EPISODES):
     )
 
 
+    rates = [
+    completed[v.vehicle_id] / generated[v.vehicle_id]
+    if generated[v.vehicle_id] > 0 else 0
+    for v in vehicles
+    ]
+    n    = len(rates)
+    jain = (
+        (sum(rates)**2) / (n * sum(r**2 for r in rates))
+        if any(rates) else 0
+    )
+
     episode_metrics.append({
-
-        "episode":episode,
-
-        "completion_rate":completion_rate,
-
-        "reward":episode_reward,
-
-        "avg_latency":
-
-            np.mean(episode_latencies)
-            if episode_latencies
-            else 0
-
+        "episode"        : episode,
+        "completion_rate": completion_rate,
+        "reward"         : episode_reward,
+        "avg_latency"    : np.mean(episode_latencies) if episode_latencies else 0,
+        "v1_completion"  : rates[0],
+        "v2_completion"  : rates[1],
+        "jain_index"     : jain,
     })
 
 

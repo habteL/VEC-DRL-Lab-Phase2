@@ -35,5 +35,17 @@ near-perfect fairness (Jain=0.992) across two heterogeneous vehicles.
 | Fairness metric | None | Jain's Index |
 | Resource contention | None | Modeled + penalized |
 | Handover migration | Single vehicle | Per-vehicle independent |
+## Scalability Results (C3d)
+
+| Configuration | Completion Rate | Jain Index |
+|---|---|---|
+| 2 vehicles (trained) | 46.0% | 0.992 |
+| 3 vehicles (zero-shot) | 38.1% | 0.980 |
+| 3 vehicles (retrained) | 37.5% | 0.981 |
+
+Performance degradation with 3 vehicles is capacity-driven (ρ increases 
+from 3.6 to 5.4), not policy-driven. Fairness is maintained across all 
+configurations, demonstrating the structural fairness guarantee of 
+parameter-sharing MARL.
 
 ## System Configuration
